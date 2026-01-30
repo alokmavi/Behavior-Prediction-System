@@ -1,0 +1,1 @@
+{"Trousers": ["Skirts", "Sale", "Blouses"], "Skirts": ["Trousers", "Sale", "Blouses"], "Blouses": ["Jackets", "Sale", "Trousers"], "Sale": ["Trousers", "Skirts", "Blouses"], "Jackets": ["Blouses", "Sale", "Trousers"], "Accessories": ["Trousers", "Skirts", "Blouses"]}
