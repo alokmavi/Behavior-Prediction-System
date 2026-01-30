@@ -1,1 +1,14 @@
-echo "Data/faiss_store.pkl" >> .gitignore*.pkl
+# Ignore Data
+Data/
+*.pkl
+*.csv
+*.json
+
+# Ignore Python Cache (The .pyc files)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore System Files
+.DS_Store
