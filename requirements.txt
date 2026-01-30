@@ -1,6 +1,8 @@
 pandas
 numpy
-matplotlib
-networkx
-streamlit
 scikit-learn
+fastapi
+uvicorn
+faiss-cpu
+streamlit
+requests
