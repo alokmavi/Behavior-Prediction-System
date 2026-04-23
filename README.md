@@ -61,11 +61,5 @@ GET /: Health check and index status.
 POST /recommend: Accepts a user_id and returns top-k nearest neighbors based on the user's latent vector history.
 
 ## 7. Project Structure
-Bash
-├── Data/                   # Stores generated artifacts (ignored by Git)
-├── day7_production_engine.py # ETL Pipeline: Data Gen -> SVD -> FAISS
-├── day7_api.py             # FastAPI Microservice
-├── day5_app.py             # Frontend Dashboard
-├── requirements.txt        # Dependency list
-└── README.md               # Documentation
+
 Author: Alok Kumar Mavi B.Tech Computer Science | Specialization in AI & Data Systems
